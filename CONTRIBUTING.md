@@ -1,5 +1,3 @@
-## How to contribute
-
 We definitely welcome your patches and contributions!  
 If you are new to github, please start by reading [Pull Request](https://help.github.com/articles/about-pull-requests/) howto.
 
